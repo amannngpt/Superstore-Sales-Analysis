@@ -140,3 +140,7 @@ Sub-Category Performance Metrics table replicates this.
 - Copiers: +5.48% delta → large Copier orders are premium-priced
 - Binders: +34.82% delta → the few large Binder orders are profitable 
   but 1,186 individual transactions lose money
+
+  **PowerBI:**
+  - Same as Excel
+  - Used New Visual Calculation in the Calculations tab in the Home Ribbon for Delta using Custom
