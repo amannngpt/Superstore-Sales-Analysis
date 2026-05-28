@@ -143,4 +143,4 @@ Sub-Category Performance Metrics table replicates this.
 
 **PowerBI:**
 - Same as Excel
-- Used New Visual Calculation in the Calculations tab in the Home Ribbon for Delta using Custom
+- Used New Visual Calculation > Custom in the Calculations tab under the Home Ribbon 
