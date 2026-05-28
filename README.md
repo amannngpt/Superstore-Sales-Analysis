@@ -169,3 +169,25 @@ Corrected analysis using binary "Is Discounted" flag. Total discounted orders: *
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 🎓 Key Learnings
+
+1. **Data quality matters:** Incorrect date formats caused negative ship durations — fixed using Text to Columns before Power Query
+2. **Metric selection matters:** Overall Margin % (12.47%) vs Average Margin % (12.03%) answer different questions — both are valuable
+3. **Correlation ≠ complete causation:** R²=0.61 means discounts explain 61% of margin variance — COGS structure explains the rest
+4. **Binary flags over counts:** Using `Is Discounted` flag correctly identified 5,196 (not 9,994) discounted orders — critical for accurate frequency analysis
+5. **Data-driven thresholds:** BCG matrix reference lines use MEDIANX (not manual input) — defensible to any interviewer
+
+---
+
+## 📬 Contact
+
+**Aman Lall**
+- LinkedIn: [linkedin.com/in/amanlall94](https://linkedin.com/in/amanlall94/)
+- Email: amanlall94@gmail.com
+
+---
+
+*This project was completed as part of a self-directed data analyst portfolio. Dataset: Sample Superstore (publicly available training dataset).*
