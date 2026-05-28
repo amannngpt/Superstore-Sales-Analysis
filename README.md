@@ -1,6 +1,6 @@
 # 🛒 Superstore Sales Performance & Profitability Analysis
 
-![Dashboard Preview](Screenshots/PowerBI/Page1_Executive_Overview.png)
+![Dashboard Preview](PBI_Page1_Executive_Overview.png)
 
 ## 📋 Project Overview
 
@@ -168,8 +168,6 @@ Corrected analysis using binary "Is Discounted" flag. Total discounted orders: *
 
 ---
 
-## 📁 Repository Structure
-
 ---
 
 ## 🎓 Key Learnings
@@ -181,6 +179,8 @@ Corrected analysis using binary "Is Discounted" flag. Total discounted orders: *
 5. **Data-driven thresholds:** BCG matrix reference lines use MEDIANX (not manual input) — defensible to any interviewer
 
 ---
+
+## 📁 Repository Structure
 
 ## 📬 Contact
 
